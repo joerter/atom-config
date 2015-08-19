@@ -1,0 +1,16 @@
+"*":
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    fontFamily: "Inconsolata"
+    fontSize: 18
+    tabLength: 4
+  core: {}
+  "exception-reporting":
+    userId: "24ec8f48-4b18-fbbb-6102-801d15269d93"
+  welcome:
+    showOnStartup: false
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  "omnisharp-atom":
+    enhancedHighlighting: true
